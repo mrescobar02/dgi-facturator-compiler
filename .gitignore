@@ -1,0 +1,7 @@
+node_modules/
+.env
+descargas/
+*.pdf
+.DS_Store
+dist/
+build/
